@@ -22,7 +22,7 @@ repository               : "Ljw3336699/Ljw3336699.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "pic.png"
+  avatar           : "profile.png"
   name             : "Jiawei Lin"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
